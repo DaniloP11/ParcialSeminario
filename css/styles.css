@@ -12,6 +12,8 @@
 #container2{
 	margin: auto;
 	margin-top: 0px;
+	width: 960px;
+	heigth: 800px;
 }
 
 #boton1{
@@ -58,6 +60,17 @@
 }
 
 #txt4{
+	display: inline-block;
+	margin: 25px 25px;
+	background-color: rgb(255, 255, 255);
+	color: #2c79afe0;
+	padding: 10px 45px;
+	text-decoration: none;
+	border: 2px solid #2c79afe0;
+	
+}
+
+#tabletext3{
 	display: inline-block;
 	margin: 25px 25px;
 	background-color: rgb(255, 255, 255);
